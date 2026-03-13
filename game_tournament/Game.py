@@ -135,6 +135,7 @@ def a_tournament():
                        team_peru, team_france,
                        team_spain, team_brazil, team_italia, team_japan]
     return [team.to_json() for team in tournament_list]
+    
 
 if __name__ == "__main__":
     string_game = a_tournament()
