@@ -7,4 +7,5 @@ Proyecto: Zoologico interctivo
 3. Asegúrate de que los archivos de base de datos (`clases.csv` y `zoo.csv`) se encuentren dentro de esta misma carpeta.
 4. Ejecuta el programa principal con el siguiente comando:
    ```bash
-   python main.py
+
+   python examen.py
