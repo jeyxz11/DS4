@@ -1,4 +1,3 @@
-"""Interfaz simple de texto para interactuar con el zoológico."""
 
 from __future__ import annotations
 
