@@ -1,0 +1,11 @@
+# Archivos de Python temporales
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Bases de datos o archivos de datos (opcional)
+# tournament.json  <-- Descomenta esto si no quieres subir tus datos a Git
+
+# Entornos virtuales
+.conda/
+env/
